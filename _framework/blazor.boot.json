@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "AppWeb250206",
   "resources": {
-    "hash": "sha256-WU4qkiiv8kssA950FuwrBbiirGWiI7amyfmhFfPXYZ8=",
+    "hash": "sha256-nYTF4BpK966uCGQVm84u/aj/HzZ4yxdJ3FQ3ImlGMtU=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-p7ClT8o5uqssszvzfZUGhBlLOOkeUrpskkbm2FHab3g="
     },
@@ -18,7 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "AppWeb250206.wasm": "sha256-6phMZHYxuArAuAIEIBM/SqVt9civfkZqpjsIF0gIIDA=",
+      "AppWeb250206.wasm": "sha256-/aJWuxK5/Yc/f85pTimmsedbAZLpQqRk/jGeOkzKHQA=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-Q37aUOX9E40LdMvHU+pqil19BAdxKcaIezRIUEhV6ug=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-vbmhR3SSHxQ7d2rRoVmpYplGgf5f0NGZK4xeg+ufpME=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-QQOcBDu5Rl/lLCWkwHn7BGdAtS9Eg1Qbafc/mUV3kKU=",
