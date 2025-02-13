@@ -8,9 +8,9 @@
 
     <!--上傳用第一行，測試用第二行-->
 
-    <base href="/Website/" />
-    <!--<base href="/ " />-->
-
+    <!--<base href="/Website/" />
+    <base href="/ " />-->
+    <base href="@(Context.Request.Host.Host == " localhost" ? "/" : "/Website/" )" />
     <!------->
     <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" />
     <link rel="stylesheet" href="css/app.css" />

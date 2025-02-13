@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "AppWeb250206",
   "resources": {
-    "hash": "sha256-/h3eAXrqBtWznpq4PMVLfZQmk8tIhqVxC/qEti2wXds=",
+    "hash": "sha256-gxnzXosEMoPhQiAU6XxTY27Q2VBG6cgpqH2VjL3/MOA=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-p7ClT8o5uqssszvzfZUGhBlLOOkeUrpskkbm2FHab3g="
     },
@@ -18,9 +18,9 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "AppWeb250206.wasm": "sha256-JV2bTGJCFGHqiVgbdGuI2PcOOcnhisfM8+ipxNtmwNs=",
-      "Microsoft.AspNetCore.Components.wasm": "sha256-Q37aUOX9E40LdMvHU+pqil19BAdxKcaIezRIUEhV6ug=",
-      "Microsoft.AspNetCore.Components.Web.wasm": "sha256-vbmhR3SSHxQ7d2rRoVmpYplGgf5f0NGZK4xeg+ufpME=",
+      "AppWeb250206.wasm": "sha256-mM1b19IMaQvWAGzWVXwAMOivySUzwhX4jlVu0f7kcYY=",
+      "Microsoft.AspNetCore.Components.wasm": "sha256-ngwjKRzff/s+Tcyd8gGPLfC9TWrIg9+cD9ZJG7GD4uw=",
+      "Microsoft.AspNetCore.Components.Web.wasm": "sha256-k5mE4TX+8wqDjsz3XfA+km9kyU2RLmoil2Ux61pZ9sI=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-QQOcBDu5Rl/lLCWkwHn7BGdAtS9Eg1Qbafc/mUV3kKU=",
       "Microsoft.Extensions.Configuration.Abstractions.wasm": "sha256-XR+WUfg8LtnrwdXFBnV+qO3ROyp6cYCfl1AZajIAheM=",
       "Microsoft.Extensions.Configuration.Json.wasm": "sha256-Nbv4DDWJLbUri+9QrX+3vnA2FV/Qux8Jm1buTARMlBs=",
@@ -44,7 +44,7 @@
       "System.Private.CoreLib.wasm": "sha256-n3T5DX18XQbomltVDEdycxCSkhietOAYHmwMh2J23+Y=",
       "System.Private.Uri.wasm": "sha256-XAj4O3a3ZTDQXqV1R4Ri2q+dKEA1xSggDBlFOW0kW5c=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-6w23myHuMfS7m7Vn3jTIS2Bl8BwZwKBJoxXCGXBWGBo=",
-      "System.Runtime.wasm": "sha256-JkeggQHk+uyjPNvpU6HLApqmjsyMJURKHMeyOHRV5UE=",
+      "System.Runtime.wasm": "sha256-xyHvSrc1RhKQqkFlCNQPW/voCThiUJn2VxJTnwV29ow=",
       "System.Text.Encodings.Web.wasm": "sha256-+qUQLIlqnoKOicmJwBcZSxCh1oeyZn/sEUe/QwUocSY=",
       "System.Text.Json.wasm": "sha256-7b2zkTEBEhQ7Fa3HHXIhfYgdXvjFx1+h9Ui3BjKrDZk=",
       "System.Text.RegularExpressions.wasm": "sha256-Vl6qsUyQnmrFUIVFVAqnAW1pMOKHVi0p3ZmPfB2mQ98="
